@@ -1,0 +1,5 @@
+{
+  "watch": ["/app/app.js"],
+  "legacyWatch": true,
+  "ext": "js,json"
+} 
